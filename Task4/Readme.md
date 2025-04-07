@@ -1,7 +1,7 @@
 # Working with Collections and LINQObjective:Requirements:
 
 ## Objective
-- - Create a student management console application.
+- Create a student management console application.
 - Define a `Student` class with properties such as `Name`, `Grade`, and `Age`.
 - Populate a collection (e.g., a `List<Student>`) with sample data.
 - Use LINQ to:
